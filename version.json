@@ -1,4 +1,5 @@
 {
-  "launcher": "0.1.1",
-  "date": "2022-04-27"
+  "launcher": "0.10.7",
+  "date": "2022-04-27",
+  "notes": "Fixed cleanup of old versions",
 }
