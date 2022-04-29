@@ -1,5 +1,6 @@
 {
-  "launcher": "0.10.7",
-  "date": "2022-04-27",
-  "notes": "Fixed cleanup of old versions",
+  "launcher": "0.10.9",
+  "date": "2022-04-29",
+  "notes": "Fixed downloading",
+  "hash": "sha256:98bfa0cb84123743b7f5299c9c43ef4dccd21aa24966c6869ccf959fc1eee426"
 }
